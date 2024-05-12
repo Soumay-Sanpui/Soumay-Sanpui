@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is SOUMAY SANPUI and I'm a Software Engineering Enthusiasts, from Delhi,IND</p>
+<p align="left">My name is <strong>SOUMAY SANPUI</strong> from Delhi,IND</p>
 
 ###
 
