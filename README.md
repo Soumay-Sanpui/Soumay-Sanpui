@@ -120,6 +120,6 @@ I'm drawn to understanding how systems work *under the hood*. Whether it's readi
 
 *The closer you are to the metal, the better the engineer you become.*
 
-**Open to top SDE roles · [linkedin.com/in/soumay-sanpui](https://linkedin.com/in/soumay-sanpui)**
+**Open to SDE roles · [linkedin.com/in/soumay-sanpui](https://linkedin.com/in/soumay-sanpui)**
 
 </div>
