@@ -17,7 +17,7 @@
 
 ## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-I'm a Software Engineer working full-time while pursuing my **Master of Computer Applications (MCA)** at **C-DAC Noida**. I build scalable, maintainable web applications — from architecture decisions to final deployment — with a focus on clean code and real-world impact.
+I'm a Software Engineer working full-time & pursuing my **Master of Computer Applications (MCA)** at **C-DAC Noida**. I build scalable, maintainable web applications — from architecture decisions to final deployment — with a focus on clean code and real-world impact.
 
 I'm drawn to understanding how systems work *under the hood*. Whether it's reading about OS internals and computer architecture, or tracing through how a production system behaves under load — I find the fundamentals genuinely interesting, not just useful.
 
